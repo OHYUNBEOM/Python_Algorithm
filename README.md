@@ -36,7 +36,7 @@ Python_CodingTest_Repisitory
 # 6일차
 1. 코딩테스트 학습
     - 자료구조
-        -덱
+        - deque(덱)
     - 백준 알고리즘 문제 풀이
         - 1253,2750,2751,12891
 ```python
@@ -62,3 +62,12 @@ for k in range(N):
             j-=1
 print(count)
 ```
+
+# 7일차
+1. 코딩테스트 학습
+    - 자료구조
+        - 그래프
+        - Priority Queue(우선순위 큐)
+        - HeapQueue
+    - 알고리즘(탐색)
+        - DFS/BFS
